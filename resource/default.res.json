@@ -1,0 +1,104 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json",
+			"name": "preload"
+		},
+		{
+			"keys": "advisor0_png,rook1_png,pawn1_png,knight0_png,king1_png,cannon1_png,bishop1_png,bishop0_png,background_png,advisor1_png,cannon0_png,king0_png,knight1_png,pawn0_png,rook0_png",
+			"name": "game"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "game/advisor0.png",
+			"type": "image",
+			"name": "advisor0_png"
+		},
+		{
+			"url": "game/advisor1.png",
+			"type": "image",
+			"name": "advisor1_png"
+		},
+		{
+			"url": "game/background.png",
+			"type": "image",
+			"name": "background_png"
+		},
+		{
+			"url": "game/bishop0.png",
+			"type": "image",
+			"name": "bishop0_png"
+		},
+		{
+			"url": "game/bishop1.png",
+			"type": "image",
+			"name": "bishop1_png"
+		},
+		{
+			"url": "game/cannon0.png",
+			"type": "image",
+			"name": "cannon0_png"
+		},
+		{
+			"url": "game/cannon1.png",
+			"type": "image",
+			"name": "cannon1_png"
+		},
+		{
+			"url": "game/king0.png",
+			"type": "image",
+			"name": "king0_png"
+		},
+		{
+			"url": "game/king1.png",
+			"type": "image",
+			"name": "king1_png"
+		},
+		{
+			"url": "game/knight0.png",
+			"type": "image",
+			"name": "knight0_png"
+		},
+		{
+			"url": "game/knight1.png",
+			"type": "image",
+			"name": "knight1_png"
+		},
+		{
+			"url": "game/pawn0.png",
+			"type": "image",
+			"name": "pawn0_png"
+		},
+		{
+			"url": "game/pawn1.png",
+			"type": "image",
+			"name": "pawn1_png"
+		},
+		{
+			"url": "game/rook0.png",
+			"type": "image",
+			"name": "rook0_png"
+		},
+		{
+			"url": "game/rook1.png",
+			"type": "image",
+			"name": "rook1_png"
+		}
+	]
+}

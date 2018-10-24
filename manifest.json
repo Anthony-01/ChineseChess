@@ -1,0 +1,35 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/chineseChess/control/GamePlayer.js",
+		"bin-debug/chineseChess/view/Button.js",
+		"bin-debug/chineseChess/control/ChessTable.js",
+		"bin-debug/chineseChess/view/IGameView.js",
+		"bin-debug/chineseChess/view/Interface.js",
+		"bin-debug/chineseChess/view/RouteBorder.js",
+		"bin-debug/simulator/client/GamePlayerSimulator.js",
+		"bin-debug/simulator/server/ActionServer.js",
+		"bin-debug/simulator/server/GameServer.js",
+		"bin-debug/chineseChess/pieces/Interface.js",
+		"bin-debug/chineseChess/pieces/Piece.js",
+		"bin-debug/Main.js",
+		"bin-debug/chineseChess/action/ActionExecutor.js",
+		"bin-debug/chineseChess/action/Interface.js",
+		"bin-debug/chineseChess/view/PieceBorder.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/chineseChess/view/SiteObject.js",
+		"bin-debug/Platform.js",
+		"bin-debug/chineseChess/control/Interface.js",
+		"bin-debug/chineseChess/movie/PieceMovie.js",
+		"bin-debug/simulator/server/Interface.js",
+		"bin-debug/simulator/server/MoveMaster.js",
+		"bin-debug/simulator/server/PlayerServer.js"
+	]
+}
