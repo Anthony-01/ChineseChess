@@ -74,6 +74,8 @@ class Main extends egret.DisplayObjectContainer implements IMain{
         *   2、用户数据
         *   3、根据历史数据来验证操作是否合理
         * */
+
+        //测试改变
         this.runGame().catch(e => {
             console.log(e);
         })
